@@ -1,0 +1,2 @@
+# XamarinFormsBindingViewModel
+Bind ViewModel sample
